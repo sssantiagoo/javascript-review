@@ -1,9 +1,9 @@
 import { v7 as uuidv7, validate as uuidValidate } from 'uuid';
 
-export function generateUUID(): string {
+export function generateUuid(): string {
     return uuidv7();
 }
 
-export function isValidUUID(uuid):boolean  {
+export function validateUuid(uuid):boolean  {
     return uuidValidate(uuid);
 }
