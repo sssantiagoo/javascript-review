@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BackgroundAgentGlobalSettings">
+    <option name="selectedModelId" value="auto" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e034385d-f0da-429b-a2a2-8dcc4c82afdc" name="Changes" comment="initial:  add">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/javascript-review.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eslint" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eslint.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/share/domain/model/errors.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/share/domain/model/uuid.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="repository" />
+    </option>
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_/Users/alumnos/Development/2620/1ASIO730/8150/javascript-review" value="3J0SapilAjUHEhfdXIe2VdIfzi2" />
+    </persistenceIdMap>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/.gitignore" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/package.json" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.155849679887986" />
+      <entry key="MS500" value="2.3596555839753535" />
+      <entry key="S2" value="4.040675808086792" />
+      <entry key="S5" value="4.9822499938597495" />
+      <entry key="S10" value="5.437186298843735" />
+      <entry key="S30" value="6.025975586325645" />
+      <entry key="S60" value="7.2265153987408866" />
+      <entry key="M2" value="11.444463432509234" />
+      <entry key="M5" value="29.46147610860828" />
+      <entry key="M10" value="56.705227875483764" />
+      <entry key="M15" value="79.38796341436827" />
+      <entry key="M30" value="123.86114823353427" />
+      <entry key="H1" value="162.77039785395738" />
+      <entry key="H2" value="189.19988529172758" />
+      <entry key="H4" value="204.70376529555526" />
+      <entry key="D1" value="218.98326173486737" />
+      <entry key="W1" value="221.56562214015548" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="3.167337107302471E-152" />
+      <entry key="S10" value="1.7797980064969017E-76" />
+      <entry key="S30" value="5.962359539238128E-26" />
+      <entry key="S60" value="3.1930193548298745E-13" />
+      <entry key="M2" value="8.922738001062114E-7" />
+      <entry key="M5" value="0.0071899333121493445" />
+      <entry key="M10" value="0.14633945521685537" />
+      <entry key="M15" value="0.4001977666104392" />
+      <entry key="M30" value="1.095291887025504" />
+      <entry key="H1" value="1.8125246460232582" />
+      <entry key="H2" value="2.3318049827295857" />
+      <entry key="H4" value="2.644868937637472" />
+      <entry key="D1" value="2.9376589858326616" />
+      <entry key="W1" value="2.9910137304135143" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.1059093931533157" />
+      <entry key="MS500" value="2.2927819960530798" />
+      <entry key="S2" value="3.7573424625172813" />
+      <entry key="S5" value="4.74268085603526" />
+      <entry key="S10" value="5.281164714279332" />
+      <entry key="S30" value="5.962407584692036" />
+      <entry key="S60" value="7.190178320725241" />
+      <entry key="M2" value="11.42042524094213" />
+      <entry key="M5" value="29.449260726736384" />
+      <entry key="M10" value="56.83341510550722" />
+      <entry key="M15" value="79.77013258601127" />
+      <entry key="M30" value="124.940572227666" />
+      <entry key="H1" value="164.57168150971697" />
+      <entry key="H2" value="191.52489909541322" />
+      <entry key="H4" value="207.34488887868264" />
+      <entry key="D1" value="221.920242235751" />
+      <entry key="W1" value="224.55653753491734" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3J0OG7XYltYCJ8DeqBjBmPLLngM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Git.CreateWorkingTree.LastParentPath": "/Users/alumnos/Development/2620/1ASIO730/8150",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "copilot.chat.legacySessionMetadata.migrated": "true",
+    "git-widget-placeholder": "main",
+    "javascript.preferred.runtime.type.id": "node",
+    "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "npm.javascript-review.executor": "Run",
+    "npm.javascript-review/src.executor": "Run",
+    "npm.package-lock.json.executor": "Run",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "to.speed.mode.migration.done": "true",
+    "ts.external.directory.path": "/usr/local/lib/node_modules/typescript/lib"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/share/domain/model" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="package-lock.json" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-WS-262.10315.144" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e034385d-f0da-429b-a2a2-8dcc4c82afdc" name="Changes" comment="" />
+      <created>1776476909329</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1776476909329</updated>
+      <workItem from="1776476911153" duration="12000" />
+      <workItem from="1788794421461" duration="2431000" />
+      <workItem from="1788796873128" duration="1606000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="chore: add package" />
+    <MESSAGE value="initial:  add" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial:  add" />
+  </component>
+</project>
